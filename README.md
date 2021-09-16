@@ -1,4 +1,4 @@
-##  Desenvolvedor Front-end || React/React-Native 💻
+##  Desenvolvedor Front-end 💻
 
 ### Olá! Eu sou Guilherme 👋
 
