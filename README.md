@@ -3,7 +3,7 @@
 ### Olá! Eu sou Guilherme 👋
 
  
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme9415&show_icons=true&=compact&theme=calm)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme9415&layout=compact&langs_count=8&true&theme=calm)](https://github.com/Guilherme9415/github-readme-stats)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme9415&show_icons=true&=compact&theme=calm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme9415&layout=compact&langs_count=8&true&theme=calm)
 
 
 
